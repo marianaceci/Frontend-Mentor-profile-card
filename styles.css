@@ -106,6 +106,10 @@ hr {
     padding-top: 1.3rem;
 }
 
+.stats h2 {
+    font-size: 1.1rem;
+}
+
 .stats p {
     font-size: 0.7rem;
     letter-spacing: 0.1rem;
