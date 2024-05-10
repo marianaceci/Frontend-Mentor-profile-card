@@ -15,7 +15,7 @@
 html {
     font-size: 18px;
     font-family: 'Kumbh Sans', sans-serif; /*- Weights: 400, 700*/
-    background-color: var(--Dark-cyan);
+    background-color: var(--dark-cyan);
     overflow: hidden;
     background: url("images/bg-pattern-top.svg"), url("images/bg-pattern-bottom.svg"), var(--dark-cyan);
     background-repeat: no-repeat;
